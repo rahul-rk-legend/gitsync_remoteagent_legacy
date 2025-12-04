@@ -20,6 +20,7 @@
 ## Connectors
 |Name|Description|Has Mappings|
 |----|-----------|------------|
+|ServiceNow Connector|Fetching incidents from ServiceNow to Siemplify|True|
 |Splunk Query Connector|The connector sends queries that are a part of the whitelist, retrieves results and builds a case based on the results.|True|
 
 

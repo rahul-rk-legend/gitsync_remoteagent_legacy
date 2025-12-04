@@ -5,7 +5,9 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
-        "Connector": {},
+        "Connector": {
+            "ServiceNow Connector": "adding a readme add on"
+        },
         "Job": {}
     },
     "settings": {

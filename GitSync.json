@@ -10,7 +10,14 @@
         "Visual Family": {
             "Remote Agent Family 3": "adding a readme add on "
         },
-        "Playbook": {},
+        "Playbook": {
+            "Playbook Folder 2 - Test 1": "adding a readme add on",
+            "Playbook Folder 1 - Test 1": "adding a readme add on",
+            "Playbook Folder 1 - Test 2": "adding a readme add on",
+            "Playbook Folder 2 - Test 2": "adding a readme add on",
+            "Playbook Folder 2 - Test 3": "adding a readme add on",
+            "Playbook Default 3": "adding a readme add on"
+        },
         "Connector": {
             "ServiceNow Connector": "adding a readme add on"
         },

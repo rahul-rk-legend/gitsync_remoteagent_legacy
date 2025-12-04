@@ -1,7 +1,9 @@
 {
     "system_version": "6.3.67.0",
     "readme_addons": {
-        "Integration": {},
+        "Integration": {
+            "ServiceNow": "adding a readme add on"
+        },
         "Mappings": {},
         "Visual Family": {
             "Remote Agent Family 3": "adding a readme add on "

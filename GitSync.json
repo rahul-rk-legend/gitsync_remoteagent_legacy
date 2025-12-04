@@ -12,7 +12,9 @@
         "Connector": {
             "ServiceNow Connector": "adding a readme add on"
         },
-        "Job": {}
+        "Job": {
+            "Sync Table Record Comments": "adding a readme add on"
+        }
     },
     "settings": {
         "update_root_readme": true

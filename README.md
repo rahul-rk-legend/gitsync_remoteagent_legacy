@@ -20,7 +20,7 @@
 ## Connectors
 |Name|Description|Has Mappings|
 |----|-----------|------------|
-|Splunk Query Connector|The connector sends queries that are a part of the whitelist, retrieves results and builds a case based on the results.|False|
+|Splunk Query Connector|The connector sends queries that are a part of the whitelist, retrieves results and builds a case based on the results.|True|
 
 
 ## Visual Families

@@ -4,7 +4,9 @@
         "Integration": {
             "ServiceNow": "adding a readme add on"
         },
-        "Mappings": {},
+        "Mappings": {
+            "Darktrace": "adding a readme add on "
+        },
         "Visual Family": {
             "Remote Agent Family 3": "adding a readme add on "
         },

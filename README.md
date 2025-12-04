@@ -25,17 +25,6 @@
 |Splunk Query Connector|The connector sends queries that are a part of the whitelist, retrieves results and builds a case based on the results.|True|
 
 
-## Playbooks
-|Name|Description|
-|----|-----------|
-|Playbook Default 3||
-|Playbook Folder 1 - Test 1||
-|Playbook Folder 1 - Test 2||
-|Playbook Folder 2 - Test 1||
-|Playbook Folder 2 - Test 2||
-|Playbook Folder 2 - Test 3||
-
-
 ## Visual Families
 |Name|Description|
 |----|-----------|
